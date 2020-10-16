@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">A7S21PRAC0</string>
+    <string name="TITULO">programando mi primer android</string>
+    <string name="ingnombre">Ingresa tu nombre</string>
+    <string name="btnpreciona">presiona para mensaje</string>
+</resources>
